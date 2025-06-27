@@ -33,3 +33,35 @@ pip install pybaseball pandas scikit-learn
 
 python batting.py
 python top_50_batters.py
+---
+
+## 📈 Sample Use Cases
+
+- Build custom MLB scouting reports
+- Identify fantasy breakout players
+- Create prop bet models based on real stat trends
+- Track team-level performance daily
+
+---
+
+## 🚧 Work in Progress
+
+Coming soon:
+- A fully automated stat engine that stores daily data snapshots in SQLite
+- A Streamlit-powered dashboard
+- Team-vs-pitcher matchup predictors
+
+---
+
+## 🧠 Author
+
+**Peter Seher**  
+MLB enthusiast and data explorer  
+Currently building custom tools for fantasy sports and sports betting analytics
+
+---
+
+## 📫 Contact
+
+Want to collaborate, hire, or follow the project?  
+Find me on GitHub: [@peterseher](https://github.com/peterseher)
